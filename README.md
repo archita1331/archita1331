@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @archita1331
 - 👀 I’m interested in web- development and cloud computing 
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on different projects
+- 💞️ I’m looking for collaborate on different projects
 - 📫 contact me at - prahisinghthakur@gmail.com
   
 
