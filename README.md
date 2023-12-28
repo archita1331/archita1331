@@ -4,7 +4,7 @@
 - 💞️ I’m looking for collaborate on different projects
 - 📫 contact me at - prahisinghthakur@gmail.com
   
-I hope to learn from experiences and collboration
+I hope to learn from experiences and collaboration
 Peace! <3
 <!---
 archita1331/archita1331 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
